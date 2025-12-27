@@ -24,7 +24,4 @@
 | **SAEngine** | Simple minimal audio engine (backend for experiments) | C++, OpenAL, FFmpeg | [![SAEngine](https://img.shields.io/badge/-SAEngine-orange)](https://github.com/eteriaal/SAEngine) |
 | **AetheriaKernel** | Minimal 32-bit hobby kernel with colored VGA shell | C, NASM, OSDev | [![AetheriaKernel](https://img.shields.io/badge/-AetheriaKernel-lightgrey)](https://github.com/eteriaal/AetheriaKernel) |
 | **uefi-graphics-shell** | Minimal graphical UEFI shell | C, gnu-efi | [![UEFI Shell](https://img.shields.io/badge/-UEFI%20Shell-purple)](https://github.com/eteriaal/uefi-graphics-shell) |
-
 ---
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eteriaal&theme=default" />
