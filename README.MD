@@ -5,7 +5,7 @@
 <h1 align="center">eteriaal</h1>
 
 <p align="center">
-  C++ developer • Exploring low-level and audio
+  C++ developer  Exploring low-level and audio
 </p>
 
 <p align="center">
@@ -24,4 +24,5 @@
 | **SAEngine** | Simple minimal audio engine (backend for experiments) | C++, OpenAL, FFmpeg | [![SAEngine](https://img.shields.io/badge/-SAEngine-orange)](https://github.com/eteriaal/SAEngine) |
 | **AetheriaKernel** | Minimal 32-bit hobby kernel with colored VGA shell | C, NASM, OSDev | [![AetheriaKernel](https://img.shields.io/badge/-AetheriaKernel-lightgrey)](https://github.com/eteriaal/AetheriaKernel) |
 | **uefi-graphics-shell** | Minimal graphical UEFI shell | C, gnu-efi | [![UEFI Shell](https://img.shields.io/badge/-UEFI%20Shell-purple)](https://github.com/eteriaal/uefi-graphics-shell) |
+| **RPT** | Experimental OpenGL Renderer | GLFW, GLAD, glm, ImGui, stb_image | [![RPT](https://img.shields.io/badge/-RPT-red)](https://github.com/eteriaal/RPT) |
 ---
