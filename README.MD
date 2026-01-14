@@ -21,8 +21,8 @@
 | Project | Description | Tech | Link |
 |---------|------------|------|------|
 | **Vesper** | Cross-platform local music player with ID3 tags, lyrics, album arts and ... immediate-mode GUI?| C++20, ImGui, GLFW, OpenAL, FFmpeg | [![Vesper](https://img.shields.io/badge/-Vesper-blue)](https://github.com/eteriaal/Vesper) |
-| **SAEngine** | Simple Audio Engine, single-file audio library (backend for another projects/experiments)| C++, OpenAL, FFmpeg | [![SAEngine](https://img.shields.io/badge/-SAEngine-orange)](https://github.com/eteriaal/SAEngine) |
-| **AetheriaKernel** | Minimal 32-bit hobby kernel with colored VGA shell | C, NASM, OSDev | [![AetheriaKernel](https://img.shields.io/badge/-AetheriaKernel-red)](https://github.com/eteriaal/AetheriaKernel) |
+| **SAEngine** | Simple Audio Engine, single-file audio library (backend for another projects/experiments)| C++20, OpenAL, FFmpeg | [![SAEngine](https://img.shields.io/badge/-SAEngine-orange)](https://github.com/eteriaal/SAEngine) |
+| **AetheriaKernel** | Minimal 32-bit hobby kernel with colored VGA shell | C, NASM | [![AetheriaKernel](https://img.shields.io/badge/-AetheriaKernel-red)](https://github.com/eteriaal/AetheriaKernel) |
 ---
 <p align="center">
 <a href="https://github.com/eteriaal?tab=repositories">All repositories -></a>
