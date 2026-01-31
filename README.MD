@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-17/20-darkviolet?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-17/20-darkviolet?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-build system-darkviolet?style=flat" />
   <img src="https://img.shields.io/badge/Audio-OpenAL%20%2B%20FFmpeg-darkviolet?style=flat" />
   <img src="https://img.shields.io/badge/GUI-GLFW%20%2B%20ImGui-darkviolet?style=flat" />
