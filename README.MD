@@ -5,8 +5,7 @@
 <h1 align="center">eteriaal</h1>
 
 <p align="center">
-  Self-taught C++ enthusiast | Diving into low-level & desktop development   
-  Familiar with C#, Go, Rust
+  Self-taught C++ enthusiast | Diving into low-level & desktop development | Familiar with C#, Go, Rust
 </p>
 
 <p align="center">
